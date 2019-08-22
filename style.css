@@ -1,0 +1,33 @@
+    
+.site-header
+{
+    background-color: #00CCCD ;
+    color: #dfe7e8;
+    height: 100vh; /**means it will take 100% height of screen **/
+    font-family: dancing script;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.site-header-content
+{
+margin: 1rem;
+}
+body{
+    margin: 0%;
+}
+
+.profile-pic
+{
+    border-radius:50%;
+    height:200px;
+    width:200px;
+    align-self: center;
+    box-shadow:#277fc5 2px 5px 5px;
+}
+.course-link
+{
+    color: #dfe7e8;
+}
