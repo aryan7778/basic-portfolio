@@ -1,8 +1,8 @@
-    .site-header
+.site-header
 {
     background-color: #00CCCD ;
     color: #dfe7e8;
-    height: 100vh; /**means it will take 100% height of screen **/
+    height: 100vh;
     font-family: dancing script;
     display: flex;
     flex-direction: column;
