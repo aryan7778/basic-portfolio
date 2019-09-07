@@ -1,6 +1,6 @@
 .site-header
 {
-    background-color: #00BCD4 ;
+    background-color: #000000 ;
     color: #FFFFFF;
     height: 100vh;
     font-family: sans-serif;
@@ -25,8 +25,4 @@ body{
     width:200px;
     align-self: center;
     box-shadow:#277fc5 2px 5px 5px;
-}
-.course-link
-{
-    color: #FFFFFF;
 }
